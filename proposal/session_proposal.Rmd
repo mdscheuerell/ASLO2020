@@ -17,11 +17,14 @@ knitr::opts_chunk$set(echo = TRUE)
 Enter your best estimate of the number of attendees, based on your knowledge of the topic and of individuals who would be interested.
 
 
-### Session Format 
- Standard 15-minute Talk Format
- Lightning Talks (Short presentations followed by discussion)
- Panel Discussions
- Posters
+### Session Format
+
+Mark is in favor of the standard format, but could be convinced otherwise.
+
+__X Standard 15-minute Talk Format__
+O Lightning Talks (Short presentations followed by discussion)
+O Panel Discussions
+O Posters
 
 
 ### Description 

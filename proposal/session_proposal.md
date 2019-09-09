@@ -28,8 +28,11 @@ Describe the session in one paragraph (500 words max).
 
 Here are a few suggestions:
 
-Open science Keyword 2 Keyword 3 Keyword 4 Keyword
-5
+  - open science
+  - reproducible research
+  - data
+stewardship
+  - synthesis
 
 ### List of Potential Speakers and Topics
 

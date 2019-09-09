@@ -12,8 +12,13 @@ knowledge of the topic and of individuals who would be interested.
 
 ### Session Format
 
-Standard 15-minute Talk Format Lightning Talks (Short presentations
-followed by discussion) Panel Discussions Posters
+Mark is in favor of the standard format, but could be convinced
+otherwise.
+
+**X Standard 15-minute Talk Format**  
+O Lightning Talks (Short presentations followed by discussion)  
+O Panel Discussions  
+O Posters
 
 ### Description
 
@@ -21,6 +26,15 @@ Describe the session in one paragraph (500 words max).
 
 ### List Five Up to Keywords
 
-Keyword 1 Keyword 2 Keyword 3 Keyword 4 Keyword 5
+Here are a few suggestions:
 
-### List Potential Speakers and Topics
+Open science Keyword 2 Keyword 3 Keyword 4 Keyword
+5
+
+### List of Potential Speakers and Topics
+
+| Last Name | First Name | Email                        | Presentation Topic                                                       | Tentative Title     | Speaker invited? | Speaker tentatively confirmed? |
+| --------- | ---------- | ---------------------------- | ------------------------------------------------------------------------ | ------------------- | :--------------: | :----------------------------: |
+| Holmes    | Elizabeth  | <eli.holmes@noaa.gov>        | Using multivariate autoregressive models to estimate extinction risks    | \[tentative title\] |        N         |               N                |
+| Pedersen  | Eric       | <eric.pedersen@concordia.ca> | Dynamics of abrupt change and regime shifts in metacommunities           | \[tentative title\] |        N         |               N                |
+| Simpson   | Gavin      | <gavin.simpson@uregina.ca>   | Modelling palaeoecological time series using generalized additive models | \[tentative title\] |        N         |               N                |

@@ -21,10 +21,10 @@ Enter your best estimate of the number of attendees, based on your knowledge of 
 
 Mark is in favor of the standard format, but could be convinced otherwise.
 
-__X Standard 15-minute Talk Format__
-O Lightning Talks (Short presentations followed by discussion)
-O Panel Discussions
-O Posters
+__X Standard 15-minute Talk Format__  
+O Lightning Talks (Short presentations followed by discussion)  
+O Panel Discussions  
+O Posters  
 
 
 ### Description 
@@ -33,11 +33,22 @@ Describe the session in one paragraph (500 words max).
 
 
 ### List Five Up to Keywords
-Keyword 1 
+
+Here are a few suggestions:
+
+Open science 
 Keyword 2
 Keyword 3
 Keyword 4
 Keyword 5
 
 
-### List Potential Speakers and Topics 
+### List of Potential Speakers and Topics 
+
+
+| Last Name | First Name | Email | Presentation Topic | Tentative Title | Speaker invited? | Speaker tentatively confirmed? |
+|-----------|------------|-------|--------------------|-----------------|:----------------:|:------------------------------:|
+| Holmes | Elizabeth | eli.holmes@noaa.gov | Using multivariate autoregressive models to estimate extinction risks | [tentative title] | N | N |
+| Pedersen | Eric | eric.pedersen@concordia.ca | Dynamics of abrupt change and regime shifts in metacommunities | [tentative title] | N | N |
+| Simpson | Gavin | gavin.simpson@uregina.ca | Modelling palaeoecological time series using generalized additive models | [tentative title] | N | N |
+

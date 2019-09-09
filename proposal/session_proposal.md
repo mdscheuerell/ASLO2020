@@ -1,0 +1,26 @@
+Untitled
+================
+
+## Session Information
+
+### Session Title
+
+### Attendees
+
+Enter your best estimate of the number of attendees, based on your
+knowledge of the topic and of individuals who would be interested.
+
+### Session Format
+
+Standard 15-minute Talk Format Lightning Talks (Short presentations
+followed by discussion) Panel Discussions Posters
+
+### Description
+
+Describe the session in one paragraph (500 words max).
+
+### List Five Up to Keywords
+
+Keyword 1 Keyword 2 Keyword 3 Keyword 4 Keyword 5
+
+### List Potential Speakers and Topics

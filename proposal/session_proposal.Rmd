@@ -6,42 +6,51 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Session Information
+## Session information
 
-### Session Title
+### Session title
+
+(_Some possibilities from Mark_)
 
 __Opening up aquatic science__
 
 __Aquatic science as open science__
 
+***
 
 ### Attendees 
 
-_Enter your best estimate of the number of attendees, based on your knowledge of the topic and of individuals who would be interested._
+(_Enter your best estimate of the number of attendees, based on your knowledge of the topic and of individuals who would be interested._)
 
 __100__
 
 
-### Session Format
+***
+
+### Session format
+
+(_Mark favors the standard format, but could be convinced otherwise._)
 
 __X Standard 15-minute Talk Format__  
 O Lightning Talks (Short presentations followed by discussion)  
 O Panel Discussions  
 O Posters  
 
-(_Mark favors the standard format, but could be convinced otherwise._)
 
+***
 
 ### Description 
 
-_Describe the session in one paragraph (500 words max)._
+(_Describe the session in one paragraph; 500 words max._)
 
 Science is about the discovery and sharing of information, but much of the process is often shrouded in mystery. The seemingly endless pursuit of and competition for limited research funding has led to notions that "knowledge is power" and "control is critical", which can hinder the exploration of new ideas or methodologies. Fortunately, however, scientists are increasingly embracing a number of technological developments that allow for the improved design, execution, analysis, and dissemination of research. 
 
 This session will present a variety of tools and best practices in the open science process, including data management, reproducible workflows, and options for collaboration and dissemination of results.
 
 
-### List Five Up to Keywords
+***
+
+### List up to five keywords
 
 (_A few suggestions from Mark_)
 
@@ -51,8 +60,9 @@ This session will present a variety of tools and best practices in the open scie
 * synthesis
 
 
-### List of Potential Speakers and Topics 
+***
 
+### List of potential speakers and topics
 
 | Last Name | First Name | Email | Presentation Topic | Tentative Title | Speaker invited? | Speaker tentatively confirmed? |
 |-----------|------------|-------|--------------------|-----------------|:----------------:|:------------------------------:|

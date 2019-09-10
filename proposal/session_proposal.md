@@ -1,31 +1,39 @@
 
-## Session Information
+## Session information
 
-### Session Title
+### Session title
+
+(*Some possibilities from Mark*)
 
 **Opening up aquatic science**
 
 **Aquatic science as open science**
 
+-----
+
 ### Attendees
 
-*Enter your best estimate of the number of attendees, based on your
-knowledge of the topic and of individuals who would be interested.*
+(*Enter your best estimate of the number of attendees, based on your
+knowledge of the topic and of individuals who would be interested.*)
 
 **100**
 
-### Session Format
+-----
+
+### Session format
+
+(*Mark favors the standard format, but could be convinced otherwise.*)
 
 **X Standard 15-minute Talk Format**  
 O Lightning Talks (Short presentations followed by discussion)  
 O Panel Discussions  
 O Posters
 
-(*Mark favors the standard format, but could be convinced otherwise.*)
+-----
 
 ### Description
 
-*Describe the session in one paragraph (500 words max).*
+(*Describe the session in one paragraph; 500 words max.*)
 
 Science is about the discovery and sharing of information, but much of
 the process is often shrouded in mystery. The seemingly endless pursuit
@@ -40,7 +48,9 @@ This session will present a variety of tools and best practices in the
 open science process, including data management, reproducible workflows,
 and options for collaboration and dissemination of results.
 
-### List Five Up to Keywords
+-----
+
+### List up to five keywords
 
 (*A few suggestions from Mark*)
 
@@ -50,7 +60,9 @@ and options for collaboration and dissemination of results.
 stewardship
   - synthesis
 
-### List of Potential Speakers and Topics
+-----
+
+### List of potential speakers and topics
 
 | Last Name | First Name | Email                        | Presentation Topic                                                                   | Tentative Title     | Speaker invited? | Speaker tentatively confirmed? |
 | --------- | ---------- | ---------------------------- | ------------------------------------------------------------------------------------ | ------------------- | :--------------: | :----------------------------: |

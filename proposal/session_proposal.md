@@ -37,19 +37,20 @@ O Posters
 
 Science is about the discovery and sharing of information, but much of
 the process is often shrouded in mystery. The seemingly endless
-competition for limited research funding has led to notions that
-“knowledge is power” and “control is critical”, which can hinder the
-exploration of new ideas or methodologies. Furthermore, we are also
-witnessing an increase in journal retractions and scientists’ inability
-to successfully reproduce previous findings. Fortunately, however, there
-is a growing movement among scientists to embrace newer technological
-developments that allow for more transparent design, execution,
-analysis, and dissemination of research.
-
-This session will highlight a variety of examples of tools and best
-practices in the open science process, including data management,
-reproducible workflows, and options for collaboration and dissemination
-of results.
+competition for limited research funding has led to the notions that
+“knowledge is power” and that data must be protected. These situations
+tend to slow scientific discovery by hindering larger synthesis efforts
+and the exploration of new ideas or methodologies. In addition, we are
+witnessing increasing examples where scientists are unable to
+successfully reproduce previous findings, bringing into question the
+integrity of the results. Fortunately, however, we also find ourselves
+in the midst of an expanding community of developers and practioners of
+the tools and skills necessary for easier and more transparent design,
+analysis, and reporting of scientific studies. These advancements have
+also supported better documentation, management, and access to data,
+which has facilitated new and often remote collaborations. This session
+will highlight so-called “open science” tools and best practices being
+developed and used in the aquatic sciences and beyond.
 
 -----
 

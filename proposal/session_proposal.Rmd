@@ -43,11 +43,7 @@ O Posters
 
 (_Describe the session in one paragraph; 500 words max._)
 
-Science is about the discovery and sharing of information, but much of the process is often shrouded in mystery. The seemingly endless competition for limited research funding has led to the notions that "knowledge is power" and that data must be protected. These situations tend to slow scientific discovery by hindering larger synthesis efforts and the exploration of new ideas or methodologies. In addition, we are witnessing increasing examples where scientists are unable to successfully reproduce previous findings, bringing into question the integrity of the results. Fortunately, however, we also find ourselves in the midst of an expanding community of developers and practioners of the tools and skills necessary for easier and more transparent design, analysis, and reporting of scientific studies.
-
-, easier data management, and ombined with easier dissemination of research. 
-
-This session will highlight a variety of examples of tools and best practices in the open science process, including data management, reproducible workflows, and options for collaboration and dissemination of results.
+Science is about the discovery and sharing of information, but much of the process is often shrouded in mystery. The seemingly endless competition for limited research funding has led to the notions that "knowledge is power" and that data must be protected. These situations tend to slow scientific discovery by hindering larger synthesis efforts and the exploration of new ideas or methodologies. In addition, we are witnessing increasing examples where scientists are unable to successfully reproduce previous findings, bringing into question the integrity of the results. Fortunately, however, we also find ourselves in the midst of an expanding community of developers and practioners of the tools and skills necessary for easier and more transparent design, analysis, and reporting of scientific studies. These advancements have also supported better documentation, management, and access to data, which has facilitated new and often remote collaborations. This session will highlight so-called "open science" tools and best practices being developed and used in the aquatic sciences and beyond.
 
 
 ***

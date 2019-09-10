@@ -43,9 +43,9 @@ O Posters
 
 (_Describe the session in one paragraph; 500 words max._)
 
-Science is about the discovery and sharing of information, but much of the process is often shrouded in mystery. The seemingly endless pursuit of and competition for limited research funding has led to notions that "knowledge is power" and "control is critical", which can hinder the exploration of new ideas or methodologies. Fortunately, however, scientists are increasingly embracing a number of technological developments that allow for the improved design, execution, analysis, and dissemination of research. 
+Science is about the discovery and sharing of information, but much of the process is often shrouded in mystery. The seemingly endless competition for limited research funding has led to notions that "knowledge is power" and "control is critical", which can hinder the exploration of new ideas or methodologies. Furthermore, we are also witnessing an increase in journal retractions and scientists’ inability to successfully reproduce previous findings. Fortunately, however, there is a growing movement among scientists to embrace newer technological developments that allow for more transparent design, execution, analysis, and dissemination of research. 
 
-This session will present a variety of tools and best practices in the open science process, including data management, reproducible workflows, and options for collaboration and dissemination of results.
+This session will highlight a variety of examples of tools and best practices in the open science process, including data management, reproducible workflows, and options for collaboration and dissemination of results.
 
 
 ***

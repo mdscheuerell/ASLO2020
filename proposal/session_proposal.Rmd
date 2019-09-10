@@ -56,6 +56,8 @@ This session will present a variety of tools and best practices in the open scie
 
 | Last Name | First Name | Email | Presentation Topic | Tentative Title | Speaker invited? | Speaker tentatively confirmed? |
 |-----------|------------|-------|--------------------|-----------------|:----------------:|:------------------------------:|
+| De Cicco | Laura | ldecicco@usgs.gov | Discovering and retrieving water data available from Federal hydrologic web services | [tentative title] | N | N |
+| Hollister | Jeff | hollister.jeff@epa.gov | Calculating lake morphometry metrics  | [tentative title] | N | N |
 | Holmes | Elizabeth | eli.holmes@noaa.gov | Using multivariate autoregressive models to estimate extinction risks | [tentative title] | N | N |
 | Pedersen | Eric | eric.pedersen@concordia.ca | Dynamics of abrupt change and regime shifts in metacommunities | [tentative title] | N | N |
 | Simpson | Gavin | gavin.simpson@uregina.ca | Modelling palaeoecological time series using generalized additive models | [tentative title] | N | N |

@@ -10,11 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Session title
 
-(_Some possibilities from Mark_)
+(_One idea from Mark_)
 
 __Opening up aquatic science__
 
-__Aquatic science as open science__
 
 ***
 

@@ -3,11 +3,9 @@
 
 ### Session title
 
-(*Some possibilities from Mark*)
+(*One idea from Mark*)
 
 **Opening up aquatic science**
-
-**Aquatic science as open science**
 
 -----
 

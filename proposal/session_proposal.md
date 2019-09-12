@@ -14,7 +14,7 @@
 (*Enter your best estimate of the number of attendees, based on your
 knowledge of the topic and of individuals who would be interested.*)
 
-**100**
+**150**
 
 -----
 

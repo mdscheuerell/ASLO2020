@@ -9,13 +9,13 @@
 
 ### Organizers
 
-[**Hilary Dugan**](https://dugan.limnology.wisc.edu)
+[**Hilary Dugan**](https://dugan.limnology.wisc.edu)  
 University of Wisconsin - Madison
 
-[**Jordan Read**](https://www.usgs.gov/staff-profiles/jordan-s-read)
+[**Jordan Read**](https://www.usgs.gov/staff-profiles/jordan-s-read)  
 U.S. Geological Survey
 
-[**Mark Scheuerell**](https://faculty.washington.edu/scheuerl/)
+[**Mark Scheuerell**](https://faculty.washington.edu/scheuerl/)  
 University of Washington
 
 -----

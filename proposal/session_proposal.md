@@ -74,4 +74,5 @@ stewardship
 | Holmes    | Elizabeth  | <eli.holmes@noaa.gov>        | Estimating species interactions from time series data                                | \[tentative title\] |        N         |               N                |
 | Pedersen  | Eric       | <eric.pedersen@concordia.ca> | Dynamics of abrupt change and regime shifts in metacommunities                       | \[tentative title\] |        N         |               N                |
 | Read      | Jordan     | <jread@usgs.gov>             | Coordination and teamwork in the development of open science tools                   | \[tentative title\] |        N         |               N                |
+| Ross      | Matt     | <matt.ross@colostate.edu>      | Comparative Ecosystem Biogeochemistry at Continental Scales                   | \[tentative title\] |        N         |               N                |
 | Simpson   | Gavin      | <gavin.simpson@uregina.ca>   | Modelling palaeoecological time series using generalized additive models             | \[tentative title\] |        N         |               N                |

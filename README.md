@@ -1,8 +1,11 @@
 # ASLO-SFS 2020 Joint Annual Meeting
 
 **7-12 June 2020**
-
 **Madison, WI**
+
+## Special Session
+
+### [Opening Up Aquatic Science](https://github.com/mdscheuerell/ASLO2020/tree/master/proposal)
 
 ## Conference website
 
@@ -31,6 +34,3 @@ Student and Early Career Travel Grant Recipients Notified
 17 May 2020  
 Registration Cancellation Deadline
 
-## Special Session
-
-### [Opening Up Aquatic Science](https://github.com/mdscheuerell/ASLO2020/tree/master/proposal)

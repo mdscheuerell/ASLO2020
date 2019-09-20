@@ -3,14 +3,13 @@
 
 ### Session title
 
-**Opening up aquatic science**
+**Opening Up Aquatic Science**
 
 -----
 
 ### Attendees
 
-(*Enter your best estimate of the number of attendees, based on your
-knowledge of the topic and of individuals who would be interested.*)
+(*Enter your best estimate of the number of attendees, based on your knowledge of the topic and of individuals who would be interested.*)
 
 **150**
 
@@ -29,22 +28,7 @@ O Posters
 
 (*Describe the session in one paragraph; 500 words max.*)
 
-Science is about the discovery and sharing of information, but much of
-the process is often shrouded in mystery. The seemingly endless
-competition for limited research funding has led to the notions that
-“knowledge is power” and that data must be protected. These situations
-tend to slow scientific discovery by hindering larger synthesis efforts
-and the exploration of new ideas or methodologies. In addition, we are
-witnessing increasing examples where scientists are unable to
-successfully reproduce previous findings, bringing into question the
-integrity of the results. Fortunately, however, we also find ourselves
-in the midst of an expanding community of developers and practioners of
-the tools and skills necessary for easier and more transparent design,
-analysis, and reporting of scientific studies. These advancements have
-also supported better documentation, management, and access to data,
-which has facilitated new and often remote collaborations. This session
-will highlight so-called “open science” tools and best practices being
-developed and used in the aquatic sciences and beyond.
+Science is about the discovery and sharing of information, but much of the process is often shrouded in mystery. The seemingly endless competition for limited research funding has led to the notions that "knowledge is power"" and that data must be protected. These situations tend to slow scientific discovery by hindering larger synthesis efforts and the exploration of new ideas or methodologies. In addition, we are witnessing increasing examples where scientists are unable to successfully reproduce previous findings, bringing into question the integrity of the results. Fortunately, however, we also find ourselves in the midst of an expanding community of developers and practioners of the tools and skills necessary for easier and more transparent design, analysis, and reporting of scientific studies. These advancements have also supported better documentation, management, and access to data, which has facilitated new and often remote collaborations. This session will highlight so-called “open science” tools and best practices being developed and used in the aquatic sciences and beyond.
 
 -----
 
@@ -52,16 +36,15 @@ developed and used in the aquatic sciences and beyond.
 
   - open science
   - reproducible research
-  - data
-stewardship
+  - data stewardship
   - synthesis
 
 -----
 
 ### List of potential speakers and topics
 
-| Last Name | First Name | Email                        | Presentation Topic                                                                   | Tentative Title     | Speaker invited? | Speaker tentatively confirmed? |
-| --------- | ---------- | ---------------------------- | ------------------------------------------------------------------------------------ | ------------------- | :--------------: | :----------------------------: |
+| Last Name | First Name | Email | Presentation Topic | Tentative Title | Speaker invited? | Speaker tentatively confirmed? |
+| --------- | ---------- | ----- | ------------------ | --------------- | :--------------: | :----------------------------: |
 | De Cicco  | Laura      | <ldecicco@usgs.gov>          | Discovering and retrieving water data available from Federal hydrologic web services | \[tentative title\] |        N         |               N                |
 | Hampton   | Stephanie  | <s.hampton@wsu.edu>          | Overview of open science in ecology                                                  | \[tentative title\] |        N         |               N                |
 | Hollister | Jeff       | <hollister.jeff@epa.gov>     | Calculating lake morphometry metrics                                                 | \[tentative title\] |        N         |               N                |

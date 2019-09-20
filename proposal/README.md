@@ -7,6 +7,19 @@
 
 -----
 
+### Organizers
+
+[**Hilary Dugan**](https://dugan.limnology.wisc.edu)
+University of Wisconsin - Madison
+
+[**Jordan Read**](https://www.usgs.gov/staff-profiles/jordan-s-read)
+U.S. Geological Survey
+
+[**Mark Scheuerell**](https://faculty.washington.edu/scheuerl/)
+University of Washington
+
+-----
+
 ### Attendees
 
 (*Enter your best estimate of the number of attendees, based on your knowledge of the topic and of individuals who would be interested.*)

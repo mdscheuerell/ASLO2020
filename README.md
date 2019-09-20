@@ -1,6 +1,6 @@
 # ASLO-SFS 2020 Joint Annual Meeting
 
-**7-12 June 2020**
+**7-12 June 2020**  
 **Madison, WI**
 
 ## Special Session

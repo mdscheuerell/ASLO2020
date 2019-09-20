@@ -3,8 +3,6 @@
 
 ### Session title
 
-(*One idea from Mark*)
-
 **Opening up aquatic science**
 
 -----
@@ -19,8 +17,6 @@ knowledge of the topic and of individuals who would be interested.*)
 -----
 
 ### Session format
-
-(*Mark favors the standard format, but could be convinced otherwise.*)
 
 **X Standard 15-minute Talk Format**  
 O Lightning Talks (Short presentations followed by discussion)  
@@ -53,8 +49,6 @@ developed and used in the aquatic sciences and beyond.
 -----
 
 ### List up to five keywords
-
-(*A few suggestions from Mark*)
 
   - open science
   - reproducible research

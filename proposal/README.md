@@ -59,7 +59,7 @@ Science is about the discovery and sharing of information, but much of the proce
 | Last Name | First Name | Email | Presentation Topic | Tentative Title | Speaker invited? | Speaker tentatively confirmed? |
 | --------- | ---------- | ----- | ------------------ | --------------- | :--------------: | :----------------------------: |
 | De Cicco  | Laura      | <ldecicco@usgs.gov>          | Discovering and retrieving water data available from Federal hydrologic web services | *tentative title* |        23 Sept 2019        |               N                |
-| Dugan     | Hilar      | <hdugan@wisc.edu>          | Open-source lake modeling | *tentative title* |        23 Sept 2019         |               N                |
+| Dugan     | Hilary     | <hdugan@wisc.edu>          | Open-source lake modeling | *tentative title* |        23 Sept 2019         |               N                |
 | Hampton   | Stephanie  | <s.hampton@wsu.edu>          | Overview of open science in ecology                                                  | *tentative title* |       23 Sept 2019         |               N                |
 | Hollister | Jeff       | <hollister.jeff@epa.gov>     | Calculating lake morphometry metrics                                                 | *tentative title* |        23 Sept 2019         |               N                |
 | Holmes    | Elizabeth  | <eli.holmes@noaa.gov>        | Estimating species interactions from time series data                                | *tentative title* |        23 Sept 2019         |               N                |

@@ -16,7 +16,7 @@ University of Wisconsin - Madison
 U.S. Geological Survey
 
 [**Mark Scheuerell**](https://faculty.washington.edu/scheuerl/)  
-University of Washington
+U.S. Geological Survey & University of Washington
 
 -----
 
@@ -60,9 +60,9 @@ Science is about the discovery and sharing of information, but much of the proce
 | --------- | ---------- | ----- | ------------------ | --------------- | :--------------: | :----------------------------: |
 | De Cicco  | Laura      | <ldecicco@usgs.gov>          | Discovering and retrieving water data available from Federal hydrologic web services | *tentative title* |        23 Sept 2019        |               Y                |
 | Dugan     | Hilary     | <hdugan@wisc.edu>          | Open-source lake modeling | *tentative title* |        23 Sept 2019         |               Y                |
-| Hampton   | Stephanie  | <s.hampton@wsu.edu>          | Overview of open science in ecology                                                  | *tentative title* |       23 Sept 2019         |               N                |
+| Hampton   | Stephanie  | <s.hampton@wsu.edu>          | Overview of open science in ecology                                                  | *tentative title* |       23 Sept 2019         |               Y                |
 | Hollister | Jeff       | <hollister.jeff@epa.gov>     | Calculating lake morphometry metrics                                                 | *tentative title* |        23 Sept 2019         |               Y                |
-| Holmes    | Elizabeth  | <eli.holmes@noaa.gov>        | Estimating species interactions from time series data                                | *tentative title* |        23 Sept 2019         |               N                |
+| Holmes    | Elizabeth  | <eli.holmes@noaa.gov>        | Estimating species interactions from time series data                                | *tentative title* |        23 Sept 2019         |               Y                |
 | Pedersen  | Eric       | <eric.pedersen@concordia.ca> | Dynamics of abrupt change and regime shifts in metacommunities                       | *tentative title* |        23 Sept 2019         |               Cannot                |
 | Read      | Jordan     | <jread@usgs.gov>             | Coordination and teamwork in the development of open science tools                   | *tentative title* |        23 Sept 2019         |               Y                |
 | Ross      | Matt     | <matt.ross@colostate.edu>      | Comparative ecosystem biogeochemistry at continental scales                   | *tentative title* |        23 Sept 2019         |               Y                |
